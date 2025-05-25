@@ -1,10 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# convert the output of this code as markdown code
-
-Certainly! Below is a **Markdown representation of the output** you would expect from your LaTeX resume code. This is a **structured, readable version** suitable for use in a Markdown file (e.g., on GitHub or as plain text for sharing).
-
----
 
 # Anoop Kumar Singh
 
