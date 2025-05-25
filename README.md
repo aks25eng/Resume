@@ -95,15 +95,5 @@
 - **Soft Skills:** Collaboration, Problem-Solving, Quick Learning, Time Management
 - **Languages:** English, Hindi
 
----
 
-*This Markdown version preserves the structure and content of your LaTeX resume, making it easy to read and share in plain text environments.*
-
----
-
-**If you want the raw Markdown code block for copy-pasting, let me know!**
-
-<div style="text-align: center">⁂</div>
-
-[^1]: paste.txt
 
