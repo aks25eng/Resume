@@ -68,7 +68,7 @@
 - **Key Skills:** PySpark, Databricks, Distributed Data Processing, ETL, Kafka, Delta Lake, Geospatial Analytics, Python, Real-Time Data Pipelines, Data Engineering, Automation, Monitoring \& Alerting, Problem Solving, Scalability
 
 
-### Real-Time Streaming Analytics Platform (Oct 2024 -- Dec 2025)
+### Real-Time Streaming Analytics Platform (Oct 2024 -- Dec 2024)
 
 - Designed and implemented a real-time streaming data pipeline for an e-commerce client using Databricks Delta Live Tables (DLT) and PySpark, processing live data from Azure Data Lake Storage.
 - Developed and deployed a scalable Medallion architecture (Bronze, Silver, Gold layers) to optimize data ingestion, transformation, and analytics workflows, implemented separately in both Python (PySpark) and SQL.
